@@ -17,3 +17,6 @@ Stuff I came across and liked, not necessarily related to ML/AI
 * https://github.com/nvbn/thefuck
 
 
+## Resources
+* https://github.com/dheerajpreddy/Research-Starter-Kit
+
